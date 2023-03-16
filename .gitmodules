@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "files"]
+	path = files
+	url = https://github.com/gitronald/files
+	shallow = true
+	registered = true
